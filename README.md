@@ -1,5 +1,7 @@
 # Auto-shutdown-windows
-Auto shutdown windows after 3 hours of inactivity.
+
+Powershell script for auto shutting down Windows after 3 hours of inactivity (mouse&keyboard movements) while saving Word, Excel and Notepad documents.
+
 
 1. Copy the "Auto-Shutdown.ps1" script to Documents folder on each windows.
 2. Open powershell as administrator.
